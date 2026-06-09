@@ -1,0 +1,27 @@
+# Dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js Build Outputs
+/.next/
+/out/
+
+# Production Build Cache
+.next
+
+# Databases & local environments
+*.db
+*.db-journal
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE configurations
+.vscode/
+.DS_Store
